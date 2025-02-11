@@ -25,13 +25,13 @@ The cart stores selected products in LocalStorage.
 Items remain saved even after page refresh.
 Users can remove items from the cart at any time.
 ## 📷 Screenshot
-## Home Page 
+**Home Page** 
 
 ![Screenshot 2025-02-10 161840](https://github.com/user-attachments/assets/4ba5de22-414e-41ae-a009-9de2db8d0cbf)
 
-## Login/Signup Page 
-![![Screenshot 2025-02-11 125611](https://github.com/user-attachments/assets/97ecea91-ec69-41c2-94eb-e56f7d7c4925)
-]
+**Login/Signup Page** 
+![Screenshot 2025-02-11 125611](https://github.com/user-attachments/assets/97ecea91-ec69-41c2-94eb-e56f7d7c4925)
+
 
 
 ## 💡 Future Enhancements
